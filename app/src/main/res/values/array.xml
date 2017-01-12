@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="pref_category_options">
+        <item>@string/pref_category_label_rated</item>
+        <item>@string/pref_category_label_famous</item>
+    </string-array>
+<string-array name="pref_category_values">
+    <item>@string/pref_category_rated</item>
+    <item>@string/pref_category_famous</item>
+</string-array>
+</resources>

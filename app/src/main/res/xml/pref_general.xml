@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+<ListPreference android:key="category"
+    android:title="@string/category_setting"
+    android:defaultValue="Top Rated"
+    android:entryValues="@array/pref_category_values"
+    android:entries="@array/pref_category_options"/>
+</PreferenceScreen>
